@@ -1,0 +1,2 @@
+- (YANISSE) : création de Etudiant.java, LecteurCSV.java, lecture du CSV
+- (NASSIM) : CalculNotes.java, SauvegardeResultats.java, classement et sauvegarde
