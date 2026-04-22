@@ -1,0 +1,23 @@
+================================================
+    RAPPORT DE NOTES - CLASSEMENT DES ÉTUDIANTS
+    Généré le : 2026-04-21 15:44:52
+================================================
+
+Rang  Nom                  Moyenne    Détail des cours              
+------------------------------------------------
+1     Alice Dupont         91,67      Maths:88,0  Physique:92,0  Informatique:95,0
+2     Emma Tremblay        90,67      Maths:91,0  Physique:88,0  Informatique:93,0
+3     David Nguyen         82,00      Maths:82,0  Physique:79,0  Informatique:85,0
+4     Fatima Benali        77,33      Maths:74,0  Physique:81,0  Informatique:77,0
+5     Bob Martin           71,00      Maths:70,0  Physique:65,0  Informatique:78,0
+6     Clara Leblanc        55,00      Maths:55,0  Physique:60,0  Informatique:50,0
+
+================================================
+    STATISTIQUES GÉNÉRALES
+================================================
+  Nombre d'étudiants     : 6
+  Moyenne générale       : 77,94
+  Meilleur étudiant      : Alice Dupont (91,67)
+  Étudiant le plus faible: Clara Leblanc (55,00)
+
+================================================
